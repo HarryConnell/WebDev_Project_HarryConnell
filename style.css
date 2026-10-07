@@ -31,10 +31,18 @@ footer{
 
 h2{
     text-align: center;
+    color: black;
 }
 
 h3{
     text-align: center;
+}
+h4{
+    font-size: 20px;
+    color:navy;
+}
+u{
+    color: orange;
 }
 
 details{
