@@ -1,0 +1,47 @@
+nav{
+    text-align: center;
+    font-size: 40px;
+    background-color: aqua;
+}
+
+#stta{
+    font-style: italic;
+}
+body{
+    background-color: aliceblue;
+ }
+
+ #about{
+    background-color: #039AFC;
+ }
+
+ .Locations{
+    background-color: lightblue;
+    text-align: center;
+    display:block;
+    margin: auto;
+ }
+ #Name{
+    font-size: 25px;
+ }
+
+footer{
+    background-color: aqua;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+details{
+    font-size: 20px;
+}
+.image{
+    display:block;
+    margin: auto;
+    width:50%;
+}
