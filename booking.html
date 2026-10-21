@@ -17,7 +17,32 @@
         <main>
             <u><h2>Bookings</h2></u>
         
-            <form></form>
+            <div>
+                <form action="#" method="post" class="form">
+                    <label for="firstName">First Name:</label>
+                    <input type="text" id="firstName" name="firstName" placeholder="John" required>
+
+                    <label for="lastName">Last Name:</label>
+                    <input type="text" id="lastName" name="lastName" placeholder="Smith" required>
+
+                    <label for="email">Email Address:</label>
+                    <input type="email" id="email" name="email" placeholder="myemail@gmail.com" required>
+
+                    <label for="phone">Phone Number:</label>
+                    <input type="tel" id="phone" name="phone"
+                        placeholder="1234567890" 
+                        required>
+                    
+                    <label for="location">Location</label>
+                    <input id="location">
+
+                    <button type="submit">Submit</button>
+
+                    <div class="message" id="successMessage">
+                        We will be in contact shortly!
+                    </div>
+                </form>
+            </div>
         </main>
     </body>
 
