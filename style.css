@@ -27,9 +27,17 @@ body{
     font-size: 25px;
  }
 
-footer{
+footer {
+    width: 100%;
+    margin-top: auto;
+    box-sizing: border-box;
+    padding: 18px;
     background-color: aqua;
-    margin: 0;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 30px;
 }
 
 h2{
