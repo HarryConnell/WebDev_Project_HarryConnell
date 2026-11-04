@@ -22,6 +22,11 @@ nav :hover{
 body{
     background-color: aliceblue;
     background-image: url(https://giffiles.alphacoders.com/136/13682.gif) ;
+    background-repeat: no-repeat;
+    background-size: 100vw;
+    background-attachment: fixed;
+    background-position-x: center;
+
  }
 
  .Locations{
