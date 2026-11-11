@@ -121,5 +121,8 @@ label{
 }
 
 #info{
-    font-size: medium;
+    font-size: 25px;
+}
+.dropbox{
+    font-size: 15px;
 }
