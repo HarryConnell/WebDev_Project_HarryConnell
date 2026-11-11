@@ -9,6 +9,11 @@ nav{
     font-family: 'Montserrat', sans-serif;
 }
 
+p{
+    color:black;
+
+}
+
 nav :hover{
     color: blueviolet;
 }
@@ -47,14 +52,13 @@ footer {
     margin-right: -8px;
     padding-left: 7.5px;
     padding: 10px;
-
+    color: black;
     display: flex;
     justify-content: space-between;
 }
 
 .footer-left {
     width: 40%;
-    color: black;
 }
 
 .footer-right {
@@ -110,4 +114,8 @@ label{
 .link{
     padding-left: 10px;
     padding-right: 10px;
+}
+
+#underline{
+    color: gold;
 }
