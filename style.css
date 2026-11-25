@@ -90,6 +90,16 @@ details{
     font-size: 20px;
 }
 
+details summary{
+    cursor:pointer;
+    transition: font-size 0.3s ease;
+}
+
+details[open] summary{
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
 .image{
     display:block;
     margin: auto;
