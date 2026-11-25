@@ -150,3 +150,18 @@ label{
     display:block;
     margin: auto;
  }
+
+ /* Mobile devices */
+@media screen and (max-width: 599px) {
+
+}
+
+/* Tablets */
+@media screen and (min-width: 600px) and (max-width: 1024px) {
+
+}
+
+/* Desktop screens */
+@media screen and (min-width: 1025px) {
+
+}
